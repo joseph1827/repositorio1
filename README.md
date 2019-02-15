@@ -1,2 +1,2 @@
 # repositorio1
-me lleva la primera prueba
+este es la primera prueba
